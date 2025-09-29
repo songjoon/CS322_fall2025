@@ -1,0 +1,18 @@
+# LaTeX intermediate files
+*.aux
+*.bbl
+*.blg
+*.log
+*.lof
+*.lot
+*.fls
+*.out
+*.toc
+*.fdb_latexmk
+*.synctex.gz
+
+# Final PDF output (optional, final version은 포함시키기도 함)
+#*.pdf
+
+# Minted package cache
+_minted*
