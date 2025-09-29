@@ -1,0 +1,1 @@
+for package in $(cat tex-requirements.txt); do tlmgr install $package; done
